@@ -1,5 +1,6 @@
 "Feature1" 
 "Feature1 added" 
+"Fix 3.1" 
 "Feature2" 
 "Feature2" 
 "Feature 1.3" 
